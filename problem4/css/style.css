@@ -1,0 +1,142 @@
+nav{
+    background-color: #FCD34D;
+}
+.product-header{
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+    background-color: #FCD34D;
+}
+.footer-page{
+    background-color: rgb(48, 47, 47);
+}
+.foot_botm {
+    width: 100%;
+    text-align: center;
+    padding: 35px 0;
+}
+.foot_botm_inr {
+    width: 100%;
+}
+.foot_botm_inr li:last-child {
+    background: none;
+    padding-right: 0;
+}
+.foot_botm_inr li {
+    display: inline-block;
+    color: #a3a3a2;
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    padding-left: 6px;
+    padding-right: 12px;
+}
+.social-section{
+    background: #FCD34D;
+    text-align: center;
+    padding: 20px;
+}
+.social_link ul {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.social_link ul li {
+    margin: 10px 7px 0 7px;
+}
+.social_link ul li a {
+    text-decoration: none !important;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: #ffffff;
+    width: 40px;
+    height: 40px;
+}
+.social_link ul li a i{
+    font-size: 20px;
+}
+.youtube-a{
+    background-color: #FF0000;
+}
+.twitter-a{
+    background-color: #1DA1F2;
+}
+.facebook-a{
+    background-color: #4267B2;
+}
+.section-image{
+    width: 100%;
+}
+.product-desc{
+    padding-top: 60px;
+}
+.product-details{
+    padding: 50px 30px 30px;
+}
+
+.btn-buy {
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 8px 10px;
+    font-weight: 600;
+    color: #ffffff;
+    background: #FCD34D;
+}
+.btn-buy:hover{
+    color: #ffffff;
+}
+.store-section{
+    background: #FCD34D;
+    text-align: center;
+    padding: 60px;
+}
+.app_link ul{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.app_link ul li {
+    margin: 10px 20px;
+}
+.app_link ul li a {
+    text-decoration: none !important;
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 50px;
+}
+.feature-section{
+    padding: 30px 0px;
+    text-align: center;
+}
+.feature-image img{
+    width: 100%;
+}
+.pro-feature{
+    padding-top: 160px;
+}
+.pro-feature i{
+    font-size: 40px;
+}
+
+.pro-feature-image{
+    padding: 60px 20px;
+
+}
+.feature-heading{
+    padding-top: 60px;
+}
+.nav-link{
+    color: #000000 !important;
+}
+.navbar-brand{
+    font-weight: 600 !important;
+}

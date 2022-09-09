@@ -1,0 +1,9 @@
+table, th, td {
+    border: 1px solid black;
+}
+img{
+    width: 120px;
+}
+.hobbies td{
+    padding: 20px 50px;
+}

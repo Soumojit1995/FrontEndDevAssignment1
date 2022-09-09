@@ -1,0 +1,69 @@
+
+
+h1{
+    text-align: center;
+    margin-top: 30px;
+}
+.product{
+    /* background-color: aqua; */
+    border: 2px solid #e9e6e6;
+}
+.product-image{
+    width: 100%;
+}
+.product-details{
+    padding: 20px;
+}
+.details{
+    text-align: left;
+    /* display: flex; */
+    padding-bottom: 12px;
+}
+.pro-name ,.pro-price ,.pro{
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+.details span{
+    font-size: 15px;
+    color: #8686869a;
+}
+.details .full-price{
+    font-size: 14px;
+    text-decoration: line-through;
+    color: #000000;
+    margin-left: 12px;
+    vertical-align: middle;
+}
+.details .new-price{
+    font-size: 18px;
+    color: #000000;
+    /* vertical-align: sub; */
+}
+.details .discount{
+    color: green;
+    margin-left: 12px;
+    vertical-align: middle;
+}
+.pro{
+    display: flex;
+}
+.pro-label{
+    width: 25%;
+}
+.pro-label-details ,.pro-size{
+    width: 75%;
+    font-weight: 500;
+}
+.pro-quantity{
+    width: 38px
+}
+.btn-light{
+    margin-left: 20px;
+    border: 1px solid #e9e6e6;
+}
+
+.pro-btn{
+    padding-top: 30px;
+}
+
